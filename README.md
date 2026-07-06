@@ -3,9 +3,9 @@
 ```zsh
 ishhh@pop-os
 ------------------
-       OS  :  pop os
-       WM  :  Mutter
+       OS  :  macOS
+       WM  :  Quartz
     Shell  :  zsh 5.9
- Terminal  :  alacritty
+ Terminal  :  ghostty
 ```
 
